@@ -3,7 +3,7 @@
 # Chloe Smith
 # 1/2/2024
 # This program will read an existing recipe and change it based on a conversion
-# entered by the user
+# factor entered by the user
 # ==============================================================================
 from fraction import *
 
