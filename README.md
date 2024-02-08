@@ -1,2 +1,2 @@
-# fraction
+# fractions
 fraction class and assignments 
